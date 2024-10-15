@@ -73,5 +73,8 @@ The necessary libraries for data manipulation, visualization, and model building
 <img src="https://github.com/Raghava2004-cpu/PROJECTFILES/blob/e77e3d483cadc98e70ffd03419bedf4633ee93b7/Screenshot%202024-10-15%20200029.png" alt="Sample MNIST Digit Output" style="width:50%; height:auto;"/>
 
 
+<h2>Sample Output</h2>
+<p>Below is Matrix Format of Confusion Matrix using the heatmap in seaborn:</p>
+<img src="https://github.com/Raghava2004-cpu/PROJECTFILES/blob/5e595d087b1dff458928d4f307d88a94c18488b9/Screenshot%202024-10-15%20200803.png" alt="Sample MNIST Digit Output" style="width:50%; height:auto;"/>
  
 
