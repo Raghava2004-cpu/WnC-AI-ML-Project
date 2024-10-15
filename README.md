@@ -18,6 +18,9 @@ the Logistic Regression ..
 
 
 
+
+
+
 MNIST Dataset Classification with Logistic Regression
 This project demonstrates the classification of the MNIST dataset (a large dataset of handwritten digits) using Logistic Regression. The goal is to classify digits (0-9) using machine learning techniques. I used scikit-learn, pandas, numpy, matplotlib, and seaborn to implement and visualize the results.
 
@@ -63,9 +66,12 @@ The necessary libraries for data manipulation, visualization, and model building
     </li>
 </ol>
 
+
+
 <h2>Sample Output</h2>
 <p>Below is an example of a digit from the MNIST dataset being visualized and classified:</p>
-<img src="link_to_your_image_or_gif_here" alt="Sample MNIST Digit Output" style="width:50%; height:auto;"/>
+<img src="https://github.com/Raghava2004-cpu/PROJECTFILES/blob/e77e3d483cadc98e70ffd03419bedf4633ee93b7/Screenshot%202024-10-15%20200029.png" alt="Sample MNIST Digit Output" style="width:50%; height:auto;"/>
+
 
  
 
