@@ -1,4 +1,4 @@
-# Raghava2004-cpu-WnC-AI-ML-Project
+# WnC-AI-ML-Project
 Roll No : 2304077 
 Name : Raghava Ashok Vanapalli
 Email Id : vanapallia.ug23.ec@nitp.ac.in
